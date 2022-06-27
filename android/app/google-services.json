@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84018339420",
+    "firebase_url": "https://my-demo-web-baeaf-default-rtdb.firebaseio.com",
+    "project_id": "my-demo-web-baeaf",
+    "storage_bucket": "my-demo-web-baeaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84018339420:android:c4aef2661e59d6cfda9099",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84018339420-if5n5m1t3tvjlme4m6aa0q6eki673ahq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW9ZPHnnPsyRK7_AG1iyzzxaaJkJqup2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84018339420-if5n5m1t3tvjlme4m6aa0q6eki673ahq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
